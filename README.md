@@ -25,4 +25,4 @@ Using the 'devtools' package:
 You can get support from Eediom with the following methods:
 
 - Send email to contact@logpresso.com with describing your problem
-- [**Logpresso Query Manual**](https://docs.logpresso.com/manual/query_manual_ko)
+- [**Logpresso Query Manual**](https://docs.logpresso.com/ko/query)
